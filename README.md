@@ -7,7 +7,7 @@ serves as a useful base to work from.
 
 ## Mirror
 
-This is a public mirror of a private repo.
+This is a public mirror the master branch of a private repo.
 
 ## Requirements
 
